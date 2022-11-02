@@ -1,0 +1,16 @@
+{
+    "name": "iridium34/seat-industrycalculator",
+    "type": "seat-plugin",
+    "autoload": {
+        "psr-4": {
+            "Iridium34\\SeatIndustrycalculator\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "iridium34",
+            "email": "abstergodevelopment@gmail.com"
+        }
+    ],
+    "require": {}
+}
